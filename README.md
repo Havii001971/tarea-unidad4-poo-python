@@ -36,5 +36,8 @@ se aprueba con promedio de 60 o más.
 
 ## Evidencia y entrega
 
-`Evidencia_Unidad_IV.doc` contiene las 13 capturas para Canvas; se incluye
-también una copia `.docx`. Ver `PUBLICAR.md` para publicar y completar el enlace.
+Repositorio: https://github.com/Havii001971/tarea-unidad4-poo-python
+
+`Codigo_Unidad_IV.doc` contiene solo el código, en negro y sin negritas.
+`Evidencia_Unidad_IV.doc` conserva las 13 capturas y el enlace para la entrega
+indicada en la consigna. Ambos tienen una copia editable `.docx`.
